@@ -1,0 +1,6 @@
+discord.py
+datetime
+sqlalchemy
+sqlalchemy-utils
+python-dotenv
+psycopg2
